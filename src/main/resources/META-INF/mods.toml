@@ -1,0 +1,20 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[43,)"
+license="All rights reserved"
+[[mods]] #mandatory
+
+modId="frv"
+
+version="1.19.2-1.0.0" #mandatory
+
+displayName="Warrior's Crescent"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/warriors-crescent"
+logoFile="frvlogo.png"
+authors="Feroov"
+description='''
+Warrior's Crescent makes you a true warrior by adding abundance of weaponry
+'''
+    versionRange="[1.19.2,1.20)"
+    ordering="NONE"
+    side="BOTH"

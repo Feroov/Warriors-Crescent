@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    " S ",
+    " / "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "/": {
+      "item": "minecraft:iron_sword"
+    },
+    "S": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "frv:gladius",
+    "count": 1
+  }
+}
